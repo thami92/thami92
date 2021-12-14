@@ -1,7 +1,7 @@
 SETTING UP REPOSITORY
 
 GitHub Repository Link:                                                                           https://github.com/thami92/thami92/new/main
-clone github to local repository:       
+clone github to local repository:                                                                 https://github.com/thami92/thami92.git
 Check the status of your files to make sure your files are not being tracked                      $ git status
 Stage your changes.                                                                               $ git add
 Commit your changes with a descriptive message.                                                   $ git commit -m "Add new file bikeshare.py"
