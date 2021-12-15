@@ -14,12 +14,11 @@ Project 3: Post your work on Github
 
 **Technology Used**
 
-Jupiter Notebook
-Excel
-Udacity Classroom SQL
-Microsoft EXCEL
-R Studio 
-Git Version Control
+Jupiter Notebook,  
+Udacity Classroom SQL, 
+Microsoft EXCEL, 
+R Studio,  
+Git Version Control, 
 GitHub
 
 **Acknowlodgement**
