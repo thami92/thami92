@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @thami92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Created by Thamsanqa Nyawo**
 
-<!---
-thami92/thami92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Course Name**: Programming for Data Science with R Nanodegree
+
+**Date Created**: 13 December 2021
+
+**Description**
+
+Project 1: Investigate a Database 
+
+Project 2: Explore US Bikeshare Data
+
+Project 3: Post your work on Github
+
+**Technology Used**
+
+Jupiter Notebook
+Excel
+Udacity Classroom SQL
+Microsoft EXCEL
+R Studio 
+Git Version Control
+GitHub
+
+**Acknowlodgement**
+
+Thank you Udacity for the much platform provided by the Udacity 
